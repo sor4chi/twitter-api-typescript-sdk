@@ -29,7 +29,7 @@ You can find examples of using the client in the [examples/](examples/) director
 ## Installing
 
 ```
-npm install twitter-api-sdk
+npm install @sor4chi/twitter-api-sdk
 ```
 
 ## Client
