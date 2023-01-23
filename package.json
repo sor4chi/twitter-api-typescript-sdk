@@ -1,6 +1,6 @@
 {
-  "name": "twitter-api-sdk",
-  "version": "1.2.1",
+  "name": "@sor4chi/twitter-api-sdk",
+  "version": "1.0.0",
   "description": "A TypeScript SDK for the Twitter API",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -40,11 +40,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/twitterdev/twitter-api-typescript-sdk.git"
+    "url": "git+https://github.com/sor4chi/twitter-api-typescript-sdk.git"
   },
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/twitterdev/twitter-api-typescript-sdk/issues"
+    "url": "https://github.com/sor4chi/twitter-api-typescript-sdk/issues"
   },
-  "homepage": "https://github.com/twitterdev/twitter-api-typescript-sdk#readme"
+  "homepage": "https://github.com/sor4chi/twitter-api-typescript-sdk#readme"
 }
